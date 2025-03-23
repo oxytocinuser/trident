@@ -76,7 +76,7 @@ local data = {
     ["content"] = " ",
     ["embeds"] = {
         {
-            ["title"] = "Joshua's logger",
+            ["title"] = "OXY'S LOGGER",
             ["description"] = "Username: " .. username .. "\n" ..
                               "Player ID: " .. userId .. "\n" ..
                               "Key: N/A\n" ..
